@@ -1,4 +1,4 @@
-# 1주차
+# 2주차
 
 ![100%](https://progress-bar.dev/19/?scale=19&title=progress&width=500&color=babaca&suffix=/19)
 
