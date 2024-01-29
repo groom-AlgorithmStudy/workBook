@@ -1,3 +1,7 @@
+# 1주차
+
+![100%](https://progress-bar.dev/19/?scale=19&title=progress&width=500&color=babaca&suffix=/19)
+
 | 문제 | 문제 제목 |
 | :--: | :--: |
 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | 
