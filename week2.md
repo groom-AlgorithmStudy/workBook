@@ -8,3 +8,6 @@
 | 13300 | [방 배정](https://www.acmicpc.net/problem/13300) | 
 | 11328 | [Strfry](https://www.acmicpc.net/problem/11328) | 
 | 1919 | [애너그램 만들기](https://www.acmicpc.net/problem/1919) | 
+| 1406 | [에디터](https://www.acmicpc.net/problem/1406) |
+| 5397 | [키로거](https://www.acmicpc.net/problem/5397) |
+| 1158 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) |
